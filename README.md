@@ -28,6 +28,7 @@ Algorithms
 * shavite3
 * cryptonight
 * boolberry
+* minotaur
 
 Usage
 -----
@@ -35,7 +36,7 @@ Usage
 Install
 
 ```bash
-npm install multi-hashing
+npm install https://github.com/uspenko/node-multi-hashing
 ```
 
 So far this native Node.js addon can do the following hashing algos
